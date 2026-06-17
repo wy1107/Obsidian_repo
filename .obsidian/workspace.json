@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "085de5d8891242d9",
+        "id": "3f2082d87d07ff9d",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5b0c67b0a497a5",
+            "id": "44dd5d2c769e55b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-06-17.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-06-17"
+              "title": "新标签页"
             }
           }
         ]
@@ -164,13 +160,23 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "3bd7d83529474bbf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +186,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d5b0c67b0a497a5",
+  "active": "44dd5d2c769e55b4",
   "lastOpenFiles": [
+    "2026-06-17.md",
     "开发问题总结/Custmng-ui 内外网需要修改的内容.md",
     "开发问题总结/Oracle-数据库插入 null 值报错：无效的列类型 1111.md",
     "开发问题总结/Oracle-ORA-01843 无效的月份.md",
-    "2026-06-17.md",
     "行政管理-客户管理-对接/润合宜站/润合宜站企业修改接口文档.md",
     "未命名.canvas",
     "Markdown语法速查表.md",

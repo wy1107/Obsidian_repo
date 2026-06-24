@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3f2082d87d07ff9d",
+        "id": "995c733c8697568a",
         "type": "tabs",
         "children": [
           {
-            "id": "44dd5d2c769e55b4",
+            "id": "397957501f78987e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-06-22.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-06-22"
+            }
+          },
+          {
+            "id": "a1bb8fabb89b90e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发问题总结/Feign 调用 HTTPS 接口时 IP 地址 SSL 证书异常问题总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feign 调用 HTTPS 接口时 IP 地址 SSL 证书异常问题总结"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "844b287d077205c2",
@@ -170,6 +189,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7be100e47107816e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "67281d2d92201417",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -187,16 +226,42 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44dd5d2c769e55b4",
+  "active": "a1bb8fabb89b90e0",
   "lastOpenFiles": [
-    "2026-06-17.md",
-    "开发问题总结/Custmng-ui 内外网需要修改的内容.md",
+    "开发问题总结/pg_oracle.TIMESTAMP 小数秒问题修复总结.md",
+    "开发问题总结/Feign 调用 HTTPS 接口时 IP 地址 SSL 证书异常问题总结.md",
     "开发问题总结/Oracle-数据库插入 null 值报错：无效的列类型 1111.md",
+    "开发问题总结/Custmng-ui 内外网需要修改的内容.md",
     "开发问题总结/Oracle-ORA-01843 无效的月份.md",
+    "2026-06-24.md",
+    "2026-06-18.md",
+    "客户管理字典.md",
+    "Untitled Diagram.svg",
+    "2026-06-22.md",
+    "客户管理字典",
+    "attachments/Pasted image 20260618105450.png",
+    "attachments/Pasted image 20260618105012.png",
+    "attachments/Pasted image 20260618104917.png",
+    "attachments/Pasted image 20260618104735.png",
+    "attachments/Pasted image 20260618104632.png",
+    "attachments/Pasted image 20260618104620.png",
+    "attachments/Pasted image 20260618104608.png",
+    "2026-06-17.md",
+    "attachments/Pasted image 20260617183532.png",
+    "attachments/Pasted image 20260617183515.png",
+    "attachments",
+    "Excalidraw/Drawing 2026-06-17 14.53.40.excalidraw.md",
+    "Maven/创建第一个Maven项目.md",
+    "Excalidraw",
+    "task.md",
     "行政管理-客户管理-对接/润合宜站/润合宜站企业修改接口文档.md",
+    "行政管理-客户管理-对接/财产交付/预开户（pre-open）黑名单核验机制全景分析.md",
+    "Excalidraw/Drawing 2026-06-17 14.28.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-17 14.33.32.excalidraw.md",
     "未命名.canvas",
     "Markdown语法速查表.md",
     "2026-06-12.md",
@@ -204,23 +269,15 @@
     "2026-06-16.md",
     "().md",
     "未命名.base",
-    "Maven/创建第一个Maven项目.md",
-    "行政管理-客户管理-对接/财产交付/预开户（pre-open）黑名单核验机制全景分析.md",
     "行政管理-客户管理-对接/财产交付",
     "Maven",
     "AI 智能开发/Claude Code/菜鸟ai学习地址.md",
-    "未命名.md",
     "行政管理-客户管理-对接/润合宜站",
     "行政管理-客户管理-对接",
     "2026-06-11.md",
     "url.md",
     "笔记名.md",
-    "[Agent.md",
     "AI 智能开发/Claude Code",
-    "AI 智能开发",
-    "markdown语法",
-    "创建链接.md",
-    "欢迎.md",
-    "开发问题总结"
+    "AI 智能开发"
   ]
 }

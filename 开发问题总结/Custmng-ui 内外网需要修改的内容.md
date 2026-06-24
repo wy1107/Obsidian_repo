@@ -5,3 +5,4 @@
 | ------------ | ----------------------------------------- | ------------------------------------------------------------ |
 | package.json | @dhccmobile/portal-core: ^0.1.61          | @dhccmobile/crctrust-core: ^0.2.0                            |
 |              | import ……from "@dhccmobile/crctrust-core" | import ... from                     "@dhccmobile/portal-core |
+|              |                                           |                                                              |
